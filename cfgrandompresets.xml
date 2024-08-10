@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
-		<cargo chance="1.00" name="foodHermit">
+		<cargo chance="1.0" name="foodHermit">
 				<item name="TacticalBaconCan_Open" chance="1.0" />
 				<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00" name="foodVillage">
+		<cargo chance="1.0" name="foodVillage">
 				<item name="TacticalBaconCan_Open" chance="1.0" />
 				<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00" name="foodCity"> <!--same as the one above - just preparing -->
+		<cargo chance="1.0" name="foodCity"> <!--same as the one above - just preparing -->
 				<item name="TacticalBaconCan_Open" chance="1.0" />
 				<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00" name="foodArmy">
+		<cargo chance="1.0" name="foodArmy">
 				<item name="TacticalBaconCan_Open" chance="1.0" />
 				<item name="Canteen" chance="1.0" />
 		</cargo>
@@ -205,7 +205,7 @@
 		</attachments>
 		<!--NBC Cargo-->
 		<cargo chance="0.2" name="ContaminatedCargo">
-				<item name="GasMask_Filter" chance="1.00" />
+				<item name="GasMask_Filter" chance=" 1.0" />
 		</cargo>
 		<!--FARM ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsFarm">
@@ -348,14 +348,14 @@
 				<item name="Sledgehammer" chance="0.15" />
 		</attachments>
 		<attachments chance="0.10" name="vestsIndustrial">
-			<item name="ReflexVest" chance="1.00" />
+			<item name="ReflexVest" chance=" 1.0" />
 		</attachments>
 		
 		<!--FIREFIGHTER ATTACHMENTS-->
-		<attachments chance="1.00" name="hatsFirefighter">
+		<attachments chance=" 1.0" name="hatsFirefighter">
 				<item name="FirefightersHelmet_White" chance="0.33" />
 				<item name="FirefightersHelmet_Red" chance="0.66" />
-				<item name="FirefightersHelmet_Yellow" chance="1.00" />
+				<item name="FirefightersHelmet_Yellow" chance=" 1.0" />
 		</attachments>
 
 		<!--MEDIC ATTACHMENTS-->
@@ -400,27 +400,27 @@
 			<item name="AssaultBag_Black" chance="0.10" />
 			<item name="TortillaBag" chance="0.10" />
 		</attachments>
-		<attachments chance="1.00" name="HeavyArmorArmy">
-			<item name="PlateCarrierVest" chance="1.00" />
+		<attachments chance=" 1.0" name="HeavyArmorArmy">
+			<item name="PlateCarrierVest" chance=" 1.0" />
 		</attachments>
-		<attachments chance="1.00" name="HeavyHelmetArmy">
-			<item name="Ssh68Helmet" chance="1.00" />
+		<attachments chance=" 1.0" name="HeavyHelmetArmy">
+			<item name="Ssh68Helmet" chance=" 1.0" />
 		</attachments>
-		<attachments chance="1.00" name="OfficerHatArmy">
-			<item name="OfficerHat" chance="1.00" />
+		<attachments chance=" 1.0" name="OfficerHatArmy">
+			<item name="OfficerHat" chance=" 1.0" />
 		</attachments>
 
 		<!--POLICE ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsPolice">
-				<item name="PoliceCap" chance="1.00" />
+				<item name="PoliceCap" chance=" 1.0" />
 		</attachments>
-		<attachments chance="1.00" name="vestsPolice">
-				<item name="PoliceVest" chance="1.00" />
+		<attachments chance=" 1.0" name="vestsPolice">
+				<item name="PoliceVest" chance=" 1.0" />
 		</attachments>
 		
 		<!--PRISONER ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsPrisoner">
-				<item name="PrisonerCap" chance="1.00" />
+				<item name="PrisonerCap" chance=" 1.0" />
 		</attachments>
 
 		<!--UNIVERSAL ATTACHMENTS-->
@@ -535,8 +535,8 @@
 		</attachments>
 		
 		<!--Xmas Clothing-->
-		<attachments chance="1.00" name="SantaHat">
-			<item name="SantasHat" chance="1.00" />
+		<attachments chance=" 1.0" name="SantaHat">
+			<item name="SantasHat" chance=" 1.0" />
 		</attachments>
 		<cargo chance="0.20" name="SantaBeard">
 			<item name="GiftBox_Small_1" chance="0.20" />
