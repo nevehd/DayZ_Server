@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <deadline>360</deadline>
+        <shutdown>1</shutdown>
+        <text>Server restart in #tmin.</text>
+    </message>
+    <message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>Hello Uncle Dunk.</text>
+    </message>
+</messages>
