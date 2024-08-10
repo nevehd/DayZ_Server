@@ -550,6 +550,7 @@
     </event>
 	<event name="VehicleBuilderTruck">
 		<pos x="4178.04" z="10722.16" a="6.049285" />
+		<pos x="4046.81" z="10806.73" a="6.049285" />
     </event>
     <event name="StaticPoliceCar">
 		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />

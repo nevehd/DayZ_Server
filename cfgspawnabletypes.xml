@@ -3935,6 +3935,9 @@
         <attachments>
 			<item name="CarTent" />
 		</attachments>
+		<attachments>
+			<item name="Flag_DayZ" />
+		</attachments>
 	</type>
 	<type name="Truck_01_Covered_Blue">
 		<attachments chance="1.00">
