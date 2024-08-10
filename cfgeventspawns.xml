@@ -548,7 +548,7 @@
 		<pos x="7183.526854" z="7541.604005" a="250.295166" />
 		<pos x="1218.171874" z="6215.999023" a="181.061844" />
     </event>
-	<event name="VehicleOffroad02">
+	<event name="VehicleBuilderTruck">
 		<pos x="4178.04" z="10722.16" a="6.049285" />
     </event>
     <event name="StaticPoliceCar">
