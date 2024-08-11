@@ -1094,6 +1094,23 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="VehicleOffroad02"/>
         </children>
     </event-->
+    <event name="ItemPlanks1">
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>50</lifetime>
+        <restock>15</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="50" min="30" type="PileOfWoodenPlanks"/>
+        </children>
+    </event>
     <event name="VehicleBuilderTruck">
         <nominal>10</nominal>
         <min>9</min>

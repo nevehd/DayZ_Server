@@ -1423,4 +1423,7 @@
 	<!--event name="ItemSeachest">
     	<pos x="673.17" z="15228.77" a="0" />
 	</event-->
+	<event name="ItemPlanks1">
+        <pos x="269.6" z="15332.5" a="436.8" />
+    </event>
 </eventposdef>
