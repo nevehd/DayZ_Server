@@ -1420,4 +1420,7 @@
     <event name="AnimalRoeDeer" />
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
+	<!--event name="ItemSeachest">
+    	<pos x="673.17" z="15228.77" a="0" />
+	</event-->
 </eventposdef>
