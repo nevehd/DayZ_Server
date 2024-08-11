@@ -549,8 +549,19 @@
 		<pos x="1218.171874" z="6215.999023" a="181.061844" />
     </event>
 	<event name="VehicleBuilderTruck">
-		<pos x="4178.04" z="10722.16" a="6.049285" />
-		<pos x="4046.81" z="10806.73" a="6.049285" />
+		<pos x="519.58" z="15339.10" a="0" />
+    </event>
+	<event name="VehicleBuilderTruck1">
+		<pos x="550.20" z="15341.04" a="0" />
+    </event>
+	<event name="VehicleBuilderTruck2">
+		<pos x="578.88" z="15339.593" a="0" />
+    </event>
+	<event name="VehicleBuilderTruck3">
+		<pos x="523.96" z="15318.69" a="0" />
+    </event>
+	<event name="VehicleBuilderTruck4">
+		<pos x="557.01" z="15315.77" a="0" />
     </event>
     <event name="StaticPoliceCar">
 		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
