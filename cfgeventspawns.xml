@@ -1406,7 +1406,4 @@
     <event name="AnimalRoeDeer" />
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
-	<event name="VehicleAda">
-        <pos x="4873.58" z="10091.03" a="0" />
-	</event>
 </eventposdef>

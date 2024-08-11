@@ -2891,9 +2891,6 @@
 		<attachments chance="1.00">
 			<item name="HatchbackTrunk" chance="1.0" />
 		</attachments>
-		<attachments chance="1.00">
-			<item name="SV98" chance="1.0" />
-		</attachments>
 	</type>
 	<type name="OffroadHatchback_Blue">
 		<attachments chance="1.00">
