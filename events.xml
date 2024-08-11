@@ -1095,9 +1095,9 @@
         </children>
     </event>
     <event name="VehicleBuilderTruck">
-        <nominal>100</nominal>
-        <min>90</min>
-        <max>110</max>
+        <nominal>10</nominal>
+        <min>9</min>
+        <max>11</max>
         <lifetime>300</lifetime>
         <restock>1</restock>
         <saferadius>1</saferadius>
@@ -1112,9 +1112,9 @@
         </children>
     </event>
     <event name="VehicleBuilderTruck1">
-        <nominal>100</nominal>
-        <min>90</min>
-        <max>110</max>
+        <nominal>10</nominal>
+        <min>9</min>
+        <max>11</max>
         <lifetime>300</lifetime>
         <restock>1</restock>
         <saferadius>1</saferadius>
@@ -1129,9 +1129,9 @@
         </children>
     </event>
     <event name="VehicleBuilderTruck2">
-       <nominal>100</nominal>
-        <min>90</min>
-        <max>110</max>
+        <nominal>10</nominal>
+        <min>9</min>
+        <max>11</max>
         <lifetime>300</lifetime>
         <restock>1</restock>
         <saferadius>1</saferadius>
@@ -1146,9 +1146,9 @@
         </children>
     </event>
     <event name="VehicleBuilderTruck3">
-        <nominal>100</nominal>
-        <min>90</min>
-        <max>110</max>
+        <nominal>10</nominal>
+        <min>9</min>
+        <max>11</max>
         <lifetime>300</lifetime>
         <restock>1</restock>
         <saferadius>1</saferadius>
@@ -1163,9 +1163,9 @@
         </children>
     </event>
     <event name="VehicleBuilderTruck4">
-        <nominal>100</nominal>
-        <min>90</min>
-        <max>110</max>
+       <nominal>10</nominal>
+        <min>9</min>
+        <max>11</max>
         <lifetime>300</lifetime>
         <restock>1</restock>
         <saferadius>1</saferadius>
