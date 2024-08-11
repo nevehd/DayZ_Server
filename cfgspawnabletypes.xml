@@ -51,9 +51,42 @@
 	<type name="PartyTent_Lunapark">
 		<hoarder />
 	</type>
-	<type name="SeaChest">
+	<!--type name="SeaChest">
+		<attachments chance="1.00">
+            <item name="Stone" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="Stone" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="Stone" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="Stone" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="Stone" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="Stone" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="Stone" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="Stone" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="Stone" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="Stone" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="Stone" chance="1.00" />
+        </attachments>
 		<hoarder />
-	</type>
+	</type-->
 	<type name="SmallProtectorCase">
 		<hoarder />
 	</type>
