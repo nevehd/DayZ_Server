@@ -34,6 +34,17 @@
                 ]
             }
         },
+		{
+            "AreaName": "BradBase2",
+            "Type": "Land_Airfield_Hangar_Green",
+            "Data": {
+                "Pos": [
+                    674,
+                    0,
+                    15228.77
+                ]
+            }
+        },
         { 	"AreaName": "Ship-NE", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
