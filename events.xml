@@ -1077,7 +1077,7 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Blue"/>
         </children>
     </event>
-    <event name="VehicleOffroad02">
+    <!--event name="VehicleOffroad02">
         <nominal>1</nominal>
         <min>0</min>
         <max>0</max>
@@ -1093,7 +1093,7 @@
         <children>
             <child lootmax="0" lootmin="0" max="5" min="3" type="VehicleOffroad02"/>
         </children>
-    </event>
+    </event-->
     <event name="VehicleBuilderTruck">
         <nominal>10</nominal>
         <min>9</min>
