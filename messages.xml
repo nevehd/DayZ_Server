@@ -3,7 +3,7 @@
     <message>
         <deadline>360</deadline>
         <shutdown>1</shutdown>
-        <text>Server restart in #tmin.</text>
+        <text>This server (#name) will restart in #tmin minutes.</text>
     </message>
     <message>
         <delay>2</delay>
