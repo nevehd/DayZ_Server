@@ -3749,69 +3749,6 @@
 			<item name="Truck_01_Door_2_1_Orange" chance="1.00" />
 		</attachments>
 		<attachments>
-			<item name="Stone" />
-		</attachments>
-		<attachments>
-			<item name="Stone" />
-		</attachments>
-		<attachments>
-			<item name="Stone" />
-		</attachments>
-		<attachments>
-			<item name="Stone" />
-		</attachments>
-		<attachments>
-			<item name="Stone" />
-		</attachments>
-		<attachments>
-			<item name="Stone" />
-		</attachments>
-		<attachments>
-			<item name="Stone" />
-		</attachments>
-		<attachments>
-			<item name="Stone" />
-		</attachments>
-		<attachments>
-			<item name="Stone" />
-		</attachments>
-		<attachments>
-			<item name="Stone" />
-		</attachments>
-		<attachments>
-			<item name="Stone" />
-		</attachments>
-		<attachments>
-			<item name="MetalWire" />
-		</attachments>
-		<attachments>
-			<item name="MetalWire" />
-		</attachments> 
-		<attachments>
-			<item name="Pliers" />
-		</attachments>
-		<attachments>
-			<item name="Pliers" />
-		</attachments>
-		<attachments>
-			<item name="Pliers" />
-		</attachments>
-		<attachments>
-			<item name="Pliers" />
-		</attachments>
-		<attachments>
-			<item name="Rope" />
-		</attachments>
-		<attachments>
-			<item name="Rope" />
-		</attachments>
-		<attachments>
-			<item name="Rope" />
-		</attachments>
-		<attachments>
-			<item name="Rope" />
-		</attachments>
-		<attachments>
 			<item name="Barrel_Blue" />
 		</attachments>
 		<attachments>
@@ -3824,18 +3761,6 @@
 			<item name="Barrel_Yellow" />
 		</attachments>	
 		<attachments>
-			<item name="WoodenCrate" />
-		</attachments>	
-		<attachments>
-			<item name="WoodenCrate" />
-		</attachments>
-		<attachments>
-			<item name="WoodenCrate" />
-		</attachments>
-		<attachments>
-			<item name="WoodenCrate" />
-		</attachments>		
-		<attachments>
 			<item name="CanisterGasoline" />
 		</attachments>
 		<attachments>
@@ -3847,39 +3772,6 @@
         <attachments>
 			<item name="HandSaw" />
 		</attachments>
-        <attachments>
-			<item name="WoodAxe" />
-		</attachments>
-		<attachments>
-			<item name="WoodAxe" />
-		</attachments>
-		<attachments>
-			<item name="WoodAxe" />
-		</attachments>
-		<attachments>
-			<item name="Shovel" />
-		</attachments>
-		<attachments>
-			<item name="Shovel" />
-		</attachments>
-		<attachments>
-			<item name="Shovel" />
-		</attachments>	
-		<attachments>
-			<item name="Pickaxe" />
-		</attachments>
-		<attachments>
-			<item name="Pickaxe" />
-		</attachments>
-		<attachments>
-			<item name="Pickaxe" />
-		</attachments>
-		<attachments>
-			<item name="FenceKit" />
-		</attachments>
-		<attachments>
-			<item name="FenceKit" />
-		</attachments>	
 		<attachments>
 			<item name="NailBox" />
 		</attachments>
@@ -3911,97 +3803,118 @@
             <item name="NailBox" />
         </attachments>
 		<attachments>
-			<item name="NailBox" />
+			<item name="SV98" />
 		</attachments>
 		<attachments>
-			<item name="NailBox" />
+			<item name="Mag_SV98_10Rnd" />
 		</attachments>
 		<attachments>
-			<item name="NailBox" />
-		</attachments>	
-		<attachments>
-			<item name="NailBox" />
-		</attachments>
-        <attachments>
-            <item name="NailBox" />
-        </attachments>
-		<attachments>
-			<item name="NailBox" />
+			<item name="TacticalBaconCan_Opened" />
 		</attachments>
 		<attachments>
-			<item name="NailBox" />
+			<item name="TacticalBaconCan_Opened" />
 		</attachments>
 		<attachments>
-			<item name="NailBox" />
-		</attachments>	
-		<attachments>
-			<item name="NailBox" />
-		</attachments>
-        <attachments>
-            <item name="NailBox" />
-        </attachments>
-		<attachments>
-			<item name="NailBox" />
+			<item name="LeatherSewingKit" />
 		</attachments>
 		<attachments>
-			<item name="NailBox" />
+			<item name="LeatherSewingKit" />
 		</attachments>
 		<attachments>
-			<item name="NailBox" />
-		</attachments>	
-		<attachments>
-			<item name="NailBox" />
-		</attachments>
-        <attachments>
-            <item name="NailBox" />
-        </attachments>
-		<attachments>
-			<item name="NailBox" />
+			<item name="SewingKit" />
 		</attachments>
 		<attachments>
-			<item name="NailBox" />
+			<item name="SewingKit" />
 		</attachments>
 		<attachments>
-			<item name="NailBox" />
-		</attachments>	
-		<attachments>
-			<item name="NailBox" />
-		</attachments>
-        <attachments>
-            <item name="NailBox" />
-        </attachments>
-        <attachments>
-            <item name="SledgeHammer" />
-        </attachments>
-        <attachments>
-            <item name="SledgeHammer" />
-        </attachments>
-		<attachments>
-            <item name="SledgeHammer" />
-        </attachments>
-        <attachments>
-            <item name="Hatchet" />
-        </attachments>
-		<attachments>
-            <item name="Hatchet" />
-        </attachments>
-	    <attachments>
-            <item name="Hatchet" />
-        </attachments>
-		<attachments>
-            <item name="Hatchet" />
-        </attachments>
-	    <attachments>
-            <item name="Hatchet" />
-		</attachments>
-        <attachments>
-			<item name="LargeTent" />
-		</attachments>
-        <attachments>
-			<item name="CarTent" />
+			<item name="Winchester70" />
 		</attachments>
 		<attachments>
-			<item name="Flag_DayZ" />
+			<item name="AmmoBox_308Win_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_308Win_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_308Win_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_308Win_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_308Win_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="ACOGOptic_6x" />
+		</attachments>
+		<attachments>
+			<item name="BarbedWire" />
+		</attachments>
+		<attachments>
+			<item name="HuntingOptic" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_556x45_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_556x45_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_556x45_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_556x45_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_556x45_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_556x45_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_556x45_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_556x45_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_556x45_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_556x45_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_762x54_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_762x54_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_762x54_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_762x54_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_762x54_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_762x54_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_762x54_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_762x54_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_762x54_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="AmmoBox_762x54_20Rnd" />
+		</attachments>
+		<attachments>
+			<item name="Splint" />
 		</attachments>
 	</type>
 	<type name="Truck_01_Covered_Blue">
