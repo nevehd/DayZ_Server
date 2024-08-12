@@ -1403,7 +1403,7 @@
 		<pos x="3518.464" z="9122.509" a="0" y="310.821" group="Traffic_Vybor"/>
 	</event>
 	<event name="StaticWell">
-        <pos x="4891.8" z="10115" a="339.0" />
+        <pos x="243.3" z="15327.8" a="0" />
 	</event>
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />

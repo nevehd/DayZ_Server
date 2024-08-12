@@ -22,16 +22,20 @@
 
 		<generator_posbubbles>
 			<!-- Inside Bradleys Base-->
-			<pos x="244.3" x="15328.4" />
+			<pos x="247.5" z="15287.4" />
+			
             <!--Gate by Builder Trucks
 			<pos x="250.31" z="15338.13" />
-			--> 		
+			--> 
+            
 			<!-- Builder Truck by Base
 			<pos x="500.68" z="15338.13" a="6.049285" />
 			-->
+            
         	<!-- NW Airfield
 			<pos x="4124.58" z="10814.51" />
 				 -->
+                 
 		</generator_posbubbles>
 	</fresh>
 
