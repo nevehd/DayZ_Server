@@ -21,13 +21,10 @@
 		</generator_params>
 
 		<generator_posbubbles>
-			<!-- Inside Bradleys Base-->
-			<pos x="247.5" z="15287.4" />
 			
-            <!--Gate by Builder Trucks
+            <!--Builder Trucks -->
 			<pos x="250.31" z="15338.13" />
-			--> 
-            
+			 
 			<!-- Builder Truck by Base
 			<pos x="500.68" z="15338.13" a="6.049285" />
 			-->
