@@ -3060,44 +3060,107 @@
 		<item name="CarBattery" chance="1.00" />
 	</attachments>
 	<cargo chance="1.00">
-		<item name="Canteen" />
+		<item name="VitaminBottle" />
 	</cargo>		
 	<cargo chance="1.00">
-		<item name="Canteen" />
+		<item name="VitaminBottle" />
 	</cargo>
 	<cargo chance="1.00">
-		<item name="Canteen" />
+		<item name="VitaminBottle" />
 	</cargo>
 	<cargo chance="1.00">
-		<item name="Canteen" />
+		<item name="VitaminBottle" />
 	</cargo>
 	<cargo chance="1.00">
-		<item name="Canteen" />
+		<item name="VitaminBottle" />
 	</cargo>	
 	<cargo chance="1.00">
-		<item name="CanisterGasoline" chance="1.00" />
+		<item name="VitaminBottle" chance="1.00" />
 	</cargo>
 	<attachments chance="1.00">
-		<item name="CanisterGasoline" chance="1.00" />
+		<item name="VitaminBottle" chance="1.00" />
 	</attachments>	
 	<cargo chance="1">
-		<item name="Honey" />
+		<item name="VitaminBottle" />
 	</cargo>		
 	<cargo chance="1">
 		<item name="VitaminBottle" />
 	</cargo>
 	<cargo chance="1">
+		<item name="VitaminBottle" />
+	</cargo>	
+	<cargo chance="1">
 		<item name="TetracyclineAntibiotics" />
 	</cargo>	
 	<cargo chance="1">
-		<item name="GPSReceiver" />
-	</cargo>	
-	<cargo chance="1">
-		<item name="Battery9V" />
+		<item name="TetracyclineAntibiotics" />
 	</cargo>
 	<cargo chance="1">
-		<item name="ChernarusMap" />
+		<item name="TetracyclineAntibiotics" />
+	</cargo>
+	<cargo chance="1">
+		<item name="TetracyclineAntibiotics" />
+	</cargo>
+	<cargo chance="1">
+		<item name="TetracyclineAntibiotics" />
+	</cargo>
+	<cargo chance="1">
+		<item name="TetracyclineAntibiotics" />
+	</cargo>
+	<cargo chance="1">
+		<item name="TetracyclineAntibiotics" />
+	</cargo>
+	<cargo chance="1">
+		<item name="TetracyclineAntibiotics" />
+	</cargo>
+	<cargo chance="1">
+		<item name="TetracyclineAntibiotics" />
+	</cargo>
+	<cargo chance="1">
+		<item name="TetracyclineAntibiotics" />
+	</cargo>
+	<cargo chance="1">
+		<item name="MetalWire" />
+	</cargo>
+	<cargo chance="1">
+		<item name="MetalWire" />
+	</cargo>
+	<cargo chance="1">
+		<item name="MetalWire" />
+	</cargo>
+	<cargo chance="1">
+		<item name="MetalWire" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Pliers" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Rope" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Rope" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Rope" />
 	</cargo>	
+	<cargo chance="1">
+		<item name="SledgeHammer" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Mag_M14_20Rnd" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Mag_M14_20Rnd" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Mag_M14_20Rnd" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Mag_M14_20Rnd" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Mag_M14_20Rnd" />
+	</cargo>
 	</type>	
 	<!-- -->
 	<type name="CivilianSedan">
