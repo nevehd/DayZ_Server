@@ -22,16 +22,10 @@
 
 		<generator_posbubbles>
 			
-            <!--Builder Trucks -->
-			<pos x="250.31" z="15338.13" />
+            <!--Brad Base -->
+			<pos x="14235.78" z="15038.48" />
 			 
-			<!-- Builder Truck by Base
-			<pos x="500.68" z="15338.13" a="6.049285" />
-			-->
-            
-        	<!-- NW Airfield
-			<pos x="4124.58" z="10814.51" />
-				 -->
+		
                  
 		</generator_posbubbles>
 	</fresh>

@@ -39,7 +39,7 @@
          "slotName": "shoulderL",
          "discreteItemSets": [
             {
-               "itemType": "M4A1",
+               "itemType": "Aug",
                "spawnWeight": 1,
                "attributes": {
                   "healthMin": 0.8,
@@ -49,16 +49,6 @@
                },
                "quickBarSlot": 1,
                "complexChildrenTypes": [
-                  {
-                     "itemType": "ACOGOptic_6x",
-                     "attributes": {
-                        "healthMin": 0.9,
-                        "healthMax": 0.9,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                     },
-                     "quickBarSlot": -1
-                  },
                   {
                      "itemType": "Mag_STANAG_60Rnd",
                      "attributes": {
@@ -71,26 +61,6 @@
                   },
                   {
                      "itemType": "M4_Suppressor",
-                     "attributes": {
-                        "healthMin": 0.8,
-                        "healthMax": 0.9,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                     },
-                     "quickBarSlot": -1
-                  },
-                  {
-                     "itemType": "M4_OEBttstck_Green",
-                     "attributes": {
-                        "healthMin": 0.8,
-                        "healthMax": 0.9,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                     },
-                     "quickBarSlot": -1
-                  },
-                  {
-                     "itemType": "M4_RISHndgrd_Green",
                      "attributes": {
                         "healthMin": 0.8,
                         "healthMax": 0.9,
@@ -175,7 +145,7 @@
          "slotName": "Vest",
          "discreteItemSets": [
             {
-               "itemType": "PlateCarrierVest_Black",
+               "itemType": "LeatherStorageVest_Black",
                "spawnWeight": 1,
                "attributes": {
                   "healthMin": 1.0,
@@ -184,11 +154,7 @@
                   "quantityMax": 1.0
                },
                "quickBarSlot": -1,
-               "simpleChildrenUseDefaultAttributes": false,
-               "simpleChildrenTypes": [
-                  "PlateCarrierHolster_Black",
-                  "PlateCarrierPouches_Black"
-               ]
+               "simpleChildrenUseDefaultAttributes": false
             }
          ]
       },
@@ -196,7 +162,7 @@
          "slotName": "Back",
          "discreteItemSets": [
             {
-               "itemType": "AliceBag_Black",
+               "itemType": "LeatherSack_Black",
                "spawnWeight": 1,
                "attributes": {
                   "healthMin": 0.8,
@@ -207,16 +173,11 @@
                "quickBarSlot": -1,
                "simpleChildrenUseDefaultAttributes": false,
                "simpleChildrenTypes": [
-                  "Mag_M14_20Rnd",
-                  "Mag_M14_20Rnd",
-                  "Mag_M14_20Rnd",
-                  "Mag_M14_20Rnd",
-                  "Mag_M14_20Rnd",
-                  "TacticalBaconCan_Opened",
-                  "TacticalBaconCan_Opened",
-                  "TacticalBaconCan_Opened",
-                  "TacticalBaconCan_Opened",
-                  "TacticalBaconCan_Opened",
+                  "Candycane_RedGreen",
+                  "Candycane_RedGreen",
+                  "Candycane_RedGreen",
+                  "Candycane_RedGreen",
+                  "Candycane_RedGreen",
                   "ChernarusMap",
                   "Canteen",
                   "Canteen",
@@ -228,8 +189,8 @@
                   "BandageDressing",
                   "BandageDressing",
                   "BandageDressing",
-                  "TetracyclineAntibiotics",
-                  "TetracyclineAntibiotics",
+                  "VitaminBottle",
+                  "VitaminBottle",
                   "TetracyclineAntibiotics",
                   "TetracyclineAntibiotics",
                   "TetracyclineAntibiotics"
@@ -241,7 +202,7 @@
          "slotName": "Headgear",
          "discreteItemSets": [
             {
-               "itemType": "GorkaHelmet_Black",
+               "itemType": "WitchHood_Black",
                "spawnWeight": 1,
                "attributes": {
                   "healthMin": 1.0,
@@ -257,7 +218,7 @@
          "slotName": "Gloves",
          "discreteItemSets": [
             {
-               "itemType": "TacticalGloves_Black",
+               "itemType": "LeatherGloves_Black",
                "spawnWeight": 1,
                "attributes": {
                   "healthMin": 1.0,
@@ -273,7 +234,7 @@
          "slotName": "Mask",
          "discreteItemSets": [
             {
-               "itemType": "BalaclavaMask_Green",
+               "itemType": "SantasBeard",
                "spawnWeight": 1,
                "attributes": {
                   "healthMin": 1.0,
@@ -317,7 +278,7 @@
          "slotName": "Body",
          "discreteItemSets": [
             {
-               "itemType": "HuntingJacket_Summer",
+               "itemType": "FirefighterJacket_Black",
                "spawnWeight": 1,
                "attributes": {
                   "healthMin": 1.0,
@@ -366,7 +327,7 @@
          "slotName": "Legs",
          "discreteItemSets": [
             {
-               "itemType": "HunterPants_Summer",
+               "itemType": "FirefightersPants_Black",
                "spawnWeight": 1,
                "attributes": {
                   "healthMin": 1.0,
@@ -377,11 +338,11 @@
                "quickBarSlot": -1,
                "simpleChildrenUseDefaultAttributes":false,
                "simpleChildrenTypes": [
-                  "PunchedCard",
-                  "PunchedCard",
-                  "PunchedCard",
-                  "PunchedCard",
-                  "PunchedCard",
+                  "Candycane_RedGreen",
+                  "Candycane_RedGreen",
+                  "Candycane_RedGreen",
+                  "Candycane_RedGreen",
+                  "Candycane_RedGreen",
                   "WeaponCleaningKit"
                ]
             }
