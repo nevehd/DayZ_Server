@@ -737,7 +737,7 @@
        "enableCEPersistency": false
    },
 {
-       "name": "Shovel",
+       "name": "SledgeHammer",
        "pos": [
        14330.90625,
        164.584717,
@@ -812,7 +812,7 @@
        "enableCEPersistency": false
    },
 {
-       "name": "Hatchet",
+       "name": "MetalWire",
        "pos": [
        14332.865234,
        163.069626,
