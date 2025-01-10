@@ -185,6 +185,24 @@
             <child lootmax="0" lootmin="0" max="4" min="0" type="Animal_CanisLupus_White"/>
         </children>
     </event>
+    <!-- Barrels at Admin Base-->
+    <event name="ItemBaseBarrel"><!-- this is the admin barrel-->
+        <nominal>50</nominal>
+        <min>49</min>
+        <max>50</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="Barrel_Green"/>
+        </children>
+    </event>
     <event name="InfectedArmy">
         <nominal>50</nominal>
         <min>25</min>
@@ -1079,9 +1097,9 @@
     </event>
     <!-- Admin Truck-->
     <event name="VehicleOffroad02"><!-- this is the admin humvee-->
-        <nominal>3</nominal>
-        <min>2</min>
-        <max>3</max>
+        <nominal>4</nominal>
+        <min>3</min>
+        <max>5</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>

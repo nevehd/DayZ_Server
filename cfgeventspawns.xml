@@ -552,6 +552,10 @@
 			<!-- Admin Rock Base -->
 			<pos x="14245.50" z="15056.71" a="0.000000" />
 	</event>
+	<event name="ItemBaseBarrel">
+			<!-- Admin Base Barrel -->
+			<pos x="14355.6" z="15139.1" a="0.000000" />
+	</event>
 	<event name="StaticPoliceCar">
 			<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 			<pos x="1846.316407" z="11492.649414" a="336.442993" />
