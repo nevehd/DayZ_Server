@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
+<!-- pilot NPC spawns-->
+		
+	<event name="ItemNPC1">
+        <pos x="4313.978515625" z="10455.8779296875" a="0" /> <!--NWAF NPC-->
+	</event>
+	<event name="ItemNPC2">
+		<pos x="5172.19287109375" z="2233.38818359375" a="0" /> <!-- Balota AF NPC-->  
+	</event>
+	<event name="ItemNPC3">
+		<pos x="12333.5" z="12413.5" a="0" /> <!-- NEAF NPC -->
+	</event>
+		
+<!-- end of pilot NPC spawns-->	
 	<event name="VehicleCivilianSedan">
 		<pos x="12071.933594" z="9129.989258" a="317.953339" />
 		<pos x="12302.375001" z="9051.289062" a="60.399284" />

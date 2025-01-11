@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
+	<!--pilot npc clothes -->
+
+	<type name="SurvivorM_Mirek">
+    	<attachments>
+        	<item name="ZSh3PilotHelmet" />
+    	</attachments>
+      	<attachments>
+        	<item name="BomberJacket_Black" />
+    	</attachments>
+    	<attachments>
+       	 <item name="Jeans_Blue" />
+    	</attachments>
+   	 <attachments>
+    	    <item name="MilitaryBoots_Black" />
+   	 </attachments>
+	</type>
+
+<!-- end of pilot npc clothes -->
+
 	<type name="SV98">
         <attachments chance="0.25">
             <item name="M4_T3NRDSOptic" chance="0.30" />    
@@ -13,8 +32,6 @@
         </attachments>
     </type>
 	<type name="Barrel_Blue">
-		<hoarder />
-	</type>
 		<hoarder />
 	</type>
 	<type name="Barrel_Red">
