@@ -737,7 +737,7 @@
        "enableCEPersistency": false
    },
 {
-       "name": "SledgeHammer",
+       "name": "VitaminBottle",
        "pos": [
        14330.90625,
        164.584717,
@@ -782,7 +782,7 @@
        "enableCEPersistency": false
    },
 {
-       "name": "Flag_RSTA",
+       "name": "TetracyclineAntibiotics",
        "pos": [
        14332.744141,
        164.083603,
@@ -797,7 +797,7 @@
        "enableCEPersistency": false
    },
 {
-       "name": "Pickaxe",
+       "name": "BatteryCharger",
        "pos": [
        14332.102539,
        163.963364,
@@ -812,7 +812,7 @@
        "enableCEPersistency": false
    },
 {
-       "name": "MetalWire",
+       "name": "CarBattery",
        "pos": [
        14332.865234,
        163.069626,

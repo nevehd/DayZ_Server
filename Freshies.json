@@ -188,12 +188,7 @@
                   "BandageDressing",
                   "BandageDressing",
                   "BandageDressing",
-                  "BandageDressing",
-                  "VitaminBottle",
-                  "VitaminBottle",
-                  "TetracyclineAntibiotics",
-                  "TetracyclineAntibiotics",
-                  "TetracyclineAntibiotics"
+                  "BandageDressing"
                ]
             }
          ]
@@ -299,10 +294,6 @@
                   "Battery9V",
                   "Battery9V",
                   "Battery9V",
-                  "Mag_STANAG_60Rnd",
-                  "Mag_STANAG_60Rnd",
-                  "Mag_STANAG_60Rnd",
-                  "Mag_STANAG_60Rnd",
                   "Mag_STANAG_60Rnd"
                ]
             }
@@ -338,11 +329,11 @@
                "quickBarSlot": -1,
                "simpleChildrenUseDefaultAttributes":false,
                "simpleChildrenTypes": [
-                  "Candycane_RedGreen",
-                  "Candycane_RedGreen",
-                  "Candycane_RedGreen",
-                  "Candycane_RedGreen",
-                  "Candycane_RedGreen",
+                  "VitaminBottle",
+                  "VitaminBottle",
+                  "TetracyclineAntibiotics",
+                  "TetracyclineAntibiotics",
+                  "TetracyclineAntibiotics",
                   "WeaponCleaningKit"
                ]
             }
