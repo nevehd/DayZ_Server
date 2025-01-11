@@ -15,7 +15,6 @@
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
-	<type name="Barrel_Green">
 		<hoarder />
 	</type>
 	<type name="Barrel_Red">
@@ -3014,123 +3013,51 @@
 		</attachments>
 	</type>
 	<type name="Offroad_02">
-	<attachments chance="1.00">
-		<item name="Offroad_02_Wheel" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="Offroad_02_Wheel" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="Offroad_02_Wheel" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="Offroad_02_Wheel" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="Offroad_02_Wheel" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="Offroad_02_Trunk" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="Offroad_02_Hood" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="Offroad_02_Door_1_1" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="Offroad_02_Door_1_2" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="Offroad_02_Door_2_1" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="Offroad_02_Door_2_2" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="HeadlightH7" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="HeadlightH7" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="GlowPlug" chance="1.00" />
-	</attachments>
-	<attachments chance="1.00">
-		<item name="CarBattery" chance="1.00" />
-	</attachments>
-	<cargo chance="1.00">
-		<item name="VitaminBottle" />
-	</cargo>		
-	<cargo chance="1.00">
-		<item name="VitaminBottle" />
-	</cargo>
-	<cargo chance="1.00">
-		<item name="VitaminBottle" />
-	</cargo>
-	<cargo chance="1.00">
-		<item name="VitaminBottle" />
-	</cargo>
-	<cargo chance="1.00">
-		<item name="VitaminBottle" />
-	</cargo>	
-	<cargo chance="1.00">
-		<item name="VitaminBottle" chance="1.00" />
-	</cargo>
-	<attachments chance="1.00">
-		<item name="VitaminBottle" chance="1.00" />
-	</attachments>	
-	<cargo chance="1">
-		<item name="VitaminBottle" />
-	</cargo>		
-	<cargo chance="1">
-		<item name="VitaminBottle" />
-	</cargo>
-	<cargo chance="1">
-		<item name="VitaminBottle" />
-	</cargo>	
-	<cargo chance="1">
-		<item name="TetracyclineAntibiotics" />
-	</cargo>	
-	<cargo chance="1">
-		<item name="TetracyclineAntibiotics" />
-	</cargo>
-	<cargo chance="1">
-		<item name="TetracyclineAntibiotics" />
-	</cargo>
-	<cargo chance="1">
-		<item name="TetracyclineAntibiotics" />
-	</cargo>
-	<cargo chance="1">
-		<item name="TetracyclineAntibiotics" />
-	</cargo>
-	<cargo chance="1">
-		<item name="TetracyclineAntibiotics" />
-	</cargo>
-	<cargo chance="1">
-		<item name="TetracyclineAntibiotics" />
-	</cargo>
-	<cargo chance="1">
-		<item name="TetracyclineAntibiotics" />
-	</cargo>
-	<cargo chance="1">
-		<item name="TetracyclineAntibiotics" />
-	</cargo>
-	<cargo chance="1">
-		<item name="TetracyclineAntibiotics" />
-	</cargo>
-	<cargo chance="1">
-		<item name="MetalWire" />
-	</cargo>
-	<cargo chance="1">
-		<item name="MetalWire" />
-	</cargo>
-	<cargo chance="1">
-		<item name="MetalWire" />
-	</cargo>
-	<cargo chance="1">
-		<item name="MetalWire" />
-	</cargo>
+<attachments chance="1.00">
+<item name="Offroad_02_Wheel" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Offroad_02_Wheel" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Offroad_02_Wheel" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Offroad_02_Wheel" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Offroad_02_Wheel" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Offroad_02_Trunk" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Offroad_02_Hood" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Offroad_02_Door_1_1" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Offroad_02_Door_1_2" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Offroad_02_Door_2_1" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Offroad_02_Door_2_2" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="GlowPlug" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarBattery" chance="1.00" />
+</attachments>
 	<cargo chance="1">
 		<item name="Pliers" />
 	</cargo>
@@ -3144,9 +3071,6 @@
 		<item name="Rope" />
 	</cargo>	
 	<cargo chance="1">
-		<item name="SledgeHammer" />
-	</cargo>
-	<cargo chance="1">
 		<item name="Mag_M14_20Rnd" />
 	</cargo>
 	<cargo chance="1">
@@ -3160,6 +3084,18 @@
 	</cargo>
 	<cargo chance="1">
 		<item name="Mag_M14_20Rnd" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Mag_STANAG_60Rnd" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Mag_STANAG_60Rnd" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Mag_STANAG_60Rnd" />
+	</cargo>
+	<cargo chance="1">
+		<item name="Mag_STANAG_60Rnd" />
 	</cargo>
 	</type>	
 	<!-- -->

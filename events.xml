@@ -162,7 +162,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="6" min="3" type="Animal_SusScrofa"/>
         </children>
@@ -183,24 +183,6 @@
         <children>
             <child lootmax="0" lootmin="0" max="6" min="2" type="Animal_CanisLupus_Grey"/>
             <child lootmax="0" lootmin="0" max="4" min="0" type="Animal_CanisLupus_White"/>
-        </children>
-    </event>
-    <!-- Barrels at Admin Base-->
-    <event name="ItemBaseBarrel"><!-- this is the admin barrel-->
-        <nominal>50</nominal>
-        <min>49</min>
-        <max>50</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="3" min="2" type="Barrel_Green"/>
         </children>
     </event>
     <event name="InfectedArmy">
@@ -1096,21 +1078,39 @@
         </children>
     </event>
     <!-- Admin Truck-->
-    <event name="VehicleOffroad02"><!-- this is the admin humvee-->
-        <nominal>4</nominal>
-        <min>3</min>
-        <max>5</max>
+    <event name="VehicleOffroad02_Admin">
+        <nominal>30</nominal>
+        <min>30</min>
+        <max>30</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
+        <saferadius>5</saferadius>
+        <distanceradius>5</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="3" min="2" type="Offroad_02"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Offroad_02"/>
+        </children>
+    </event>
+    <!-- Admin Barrels-->
+    <event name="ItemBarrelAdmin">
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>20</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Barrel_Green"/>
         </children>
     </event>
     <event name="ItemPlanks1">
