@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
+
+<!-- Builder Trucks -->
+	<event name="VehicleBuilderTruck">
+		<pos x="3064.76" z="4075.73" a="45" />
+    </event>
 <!-- pilot NPC spawns-->
 		
 	<event name="ItemNPC1">

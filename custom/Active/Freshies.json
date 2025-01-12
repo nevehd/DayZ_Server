@@ -183,7 +183,7 @@
                   "Canteen",
                   "Canteen",
                   "LeatherSewingKit",
-                  "CombinationLock4",
+                  "SewingKit",
                   "BandageDressing",
                   "BandageDressing",
                   "BandageDressing",
@@ -284,14 +284,6 @@
                "quickBarSlot": -1,
                "simpleChildrenUseDefaultAttributes": false,
                "simpleChildrenTypes": [
-                  "CombatKnife",
-                  "Battery9V",
-                  "Battery9V",
-                  "Battery9V",
-                  "Battery9V",
-                  "Battery9V",
-                  "Battery9V",
-                  "Battery9V",
                   "Battery9V",
                   "Battery9V",
                   "Mag_STANAG_60Rnd"
@@ -330,9 +322,6 @@
                "simpleChildrenUseDefaultAttributes":false,
                "simpleChildrenTypes": [
                   "VitaminBottle",
-                  "VitaminBottle",
-                  "TetracyclineAntibiotics",
-                  "TetracyclineAntibiotics",
                   "TetracyclineAntibiotics",
                   "WeaponCleaningKit"
                ]

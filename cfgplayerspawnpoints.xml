@@ -25,11 +25,14 @@
             <!--Brad Base -->
 			<pos x="14217.31" z="14988.18" />
 			
-			<!-- Tisy -->
+			<!-- Tisy COD Zone -->
 			<pos x="3436.83" z="14796.19" />
 		
             <!-- Billy Base -->
-			<pos x="3114.58" z="4062.37" />
+			<pos x="3114.58" z="4062.37" /> 
+
+			<!-- Carter Base -->
+			<pos x="7021.89" z="15310.67" />
 
 		</generator_posbubbles>
 	</fresh>

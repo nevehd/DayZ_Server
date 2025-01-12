@@ -3159,45 +3159,6 @@
 <attachments chance="1.00">
 <item name="CarBattery" chance="1.00" />
 </attachments>
-	<cargo chance="1">
-		<item name="Pliers" />
-	</cargo>
-	<cargo chance="1">
-		<item name="Rope" />
-	</cargo>
-	<cargo chance="1">
-		<item name="Rope" />
-	</cargo>
-	<cargo chance="1">
-		<item name="Rope" />
-	</cargo>	
-	<cargo chance="1">
-		<item name="Mag_M14_20Rnd" />
-	</cargo>
-	<cargo chance="1">
-		<item name="Mag_M14_20Rnd" />
-	</cargo>
-	<cargo chance="1">
-		<item name="Mag_M14_20Rnd" />
-	</cargo>
-	<cargo chance="1">
-		<item name="Mag_M14_20Rnd" />
-	</cargo>
-	<cargo chance="1">
-		<item name="Mag_M14_20Rnd" />
-	</cargo>
-	<cargo chance="1">
-		<item name="Mag_STANAG_60Rnd" />
-	</cargo>
-	<cargo chance="1">
-		<item name="Mag_STANAG_60Rnd" />
-	</cargo>
-	<cargo chance="1">
-		<item name="Mag_STANAG_60Rnd" />
-	</cargo>
-	<cargo chance="1">
-		<item name="Mag_STANAG_60Rnd" />
-	</cargo>
 	</type>	
 	<!-- -->
 	<type name="CivilianSedan">
@@ -3864,48 +3825,255 @@
 			<item name="Splint" />
 		</attachments>
 	</type>
-	<type name="Truck_01_Covered_Blue">
+	<type name="Truck_01_Covered">
 		<attachments chance="1.00">
-			<item name="Truck_01_Wheel" chance="0.60" />
+			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Wheel" chance="0.60" />
+			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Wheel" chance="0.40" />
+			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Wheel" chance="0.40" />
+			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_WheelDouble" chance="0.40" />
+			<item name="Truck_01_WheelDouble" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_WheelDouble" chance="0.40" />
+			<item name="Truck_01_WheelDouble" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_WheelDouble" chance="0.40" />
+			<item name="Truck_01_WheelDouble" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_WheelDouble" chance="0.40" />
+			<item name="Truck_01_WheelDouble" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="TruckBattery" chance="0.25" />
+			<item name="TruckBattery" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.10" />
+			<item name="HeadlightH7" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.10" />
+			<item name="HeadlightH7" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Hood_Blue" chance="0.30" />
+			<item name="Truck_01_Hood_Orange" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Door_1_1_Blue" chance="0.50" />
+			<item name="Truck_01_Door_1_1_Orange" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Door_2_1_Blue" chance="0.50" />
+			<item name="Truck_01_Door_2_1_Orange" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="WoodenLog" />
+		</attachments>
+		<attachments>
+			<item name="WoodenPlank" />
+		</attachments>
+		<attachments>
+			<item name="MetalPlate" />
+		</attachments>
+		<attachments>
+			<item name="Barrel_Blue" />
+		</attachments>
+		<attachments>
+			<item name="Barrel_Green" />
+		</attachments>	
+		<attachments>
+			<item name="Barrel_Red" />
+		</attachments>
+		<attachments>
+			<item name="Barrel_Yellow" />
+		</attachments>	
+		<attachments>
+			<item name="WoodenCrate" />
+		</attachments>	
+		<attachments>
+			<item name="WoodenCrate" />
+		</attachments>
+		<attachments>
+			<item name="WoodenCrate" />
+		</attachments>
+		<attachments>
+			<item name="WoodenCrate" />
+		</attachments>		
+		<attachments>
+			<item name="CanisterGasoline" />
+		</attachments>
+		<attachments>
+			<item name="HandSaw" />
+		</attachments>	
+		<attachments>
+			<item name="HandSaw" />
+		</attachments>
+        <attachments>
+			<item name="HandSaw" />
+		</attachments>
+        <attachments>
+			<item name="WoodAxe" />
+		</attachments>
+		<attachments>
+			<item name="WoodAxe" />
+		</attachments>
+		<attachments>
+			<item name="WoodAxe" />
+		</attachments>
+		<attachments>
+			<item name="Shovel" />
+		</attachments>
+		<attachments>
+			<item name="Shovel" />
+		</attachments>
+		<attachments>
+			<item name="Shovel" />
+		</attachments>	
+		<attachments>
+			<item name="Pickaxe" />
+		</attachments>
+		<attachments>
+			<item name="Pickaxe" />
+		</attachments>
+		<attachments>
+			<item name="Pickaxe" />
+		</attachments>
+		<attachments>
+			<item name="ShelterKit" />
+		</attachments>	
+		<attachments>
+			<item name="ShelterKit" />
+		</attachments>
+		<attachments>
+			<item name="ShelterKit" />
+		</attachments>
+		<attachments>
+			<item name="FenceKit" />
+		</attachments>
+		<attachments>
+			<item name="WatchtowerKit" />
+		</attachments>	
+		<attachments>
+			<item name="NailBox" />
+		</attachments>
+		<attachments>
+			<item name="NailBox" />
+		</attachments>
+		<attachments>
+			<item name="NailBox" />
+		</attachments>	
+		<attachments>
+			<item name="NailBox" />
+		</attachments>
+        <attachments>
+            <item name="NailBox" />
+        </attachments>
+		<attachments>
+			<item name="NailBox" />
+		</attachments>
+		<attachments>
+			<item name="NailBox" />
+		</attachments>
+		<attachments>
+			<item name="NailBox" />
+		</attachments>	
+		<attachments>
+			<item name="NailBox" />
+		</attachments>
+        <attachments>
+            <item name="NailBox" />
+        </attachments>
+		<attachments>
+			<item name="NailBox" />
+		</attachments>
+		<attachments>
+			<item name="NailBox" />
+		</attachments>
+		<attachments>
+			<item name="NailBox" />
+		</attachments>	
+		<attachments>
+			<item name="NailBox" />
+		</attachments>
+        <attachments>
+            <item name="NailBox" />
+        </attachments>
+        <attachments>
+            <item name="SledgeHammer" />
+        </attachments>
+        <attachments>
+            <item name="SledgeHammer" />
+        </attachments>
+        <attachments>
+            <item name="Hatchet" />
+        </attachments>
+		<attachments>
+            <item name="Hatchet" />
+        </attachments>
+	    <attachments>
+            <item name="Hatchet" />
+        </attachments>
+        <attachments>
+            <item name="Whetstone" />
+        </attachments>
+        <attachments>
+            <item name="Whetstone" />
+		</attachments>
+		 <attachments>
+            <item name="Whetstone" />
+		</attachments>
+		 <attachments>
+            <item name="Whetstone" />
+		</attachments>
+		 <attachments>
+            <item name="Whetstone" />
+		</attachments>
+		 <attachments>
+            <item name="Whetstone" />
+		</attachments>
+        <attachments>
+			<item name="LargeTent" />
+		</attachments>
+        <attachments>
+			<item name="CarTent" />
+		</attachments>
+		<attachments>
+			<item name="MediumTent_Green" />
+		</attachments>
+		<attachments>
+			<item name="MediumTent" />
+		</attachments>
+		<attachments>
+			<item name="MediumTent_Orange" />
+		</attachments>
+		<attachments>
+			<item name="Camonet" />
+		</attachments>
+		<attachments>
+			<item name="EpoxyPutty" />
+		</attachments>
+		<attachments>
+			<item name="EpoxyPutty" />
+		</attachments>
+		<attachments>
+			<item name="EpoxyPutty" />
+		</attachments>
+		<attachments>
+			<item name="Camonet" />
+		</attachments>
+		<attachments>
+			<item name="Camonet" />
+		</attachments>
+		<attachments>
+			<item name="Camonet" />
+		</attachments>
+		<attachments>
+			<item name="Camonet" />
+		</attachments>
+		<attachments>
+			<item name="Camonet" />
 		</attachments>
 	</type>
 	<type name="Truck_01_Covered_Orange">
