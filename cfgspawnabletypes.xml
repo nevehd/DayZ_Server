@@ -32,9 +32,84 @@
         </attachments>
     </type>
 	<type name="Barrel_Blue">
+		<cargo>
+            <item name="Ammo_HuntingBolt" />
+        </cargo>
+		<cargo>
+            <item name="Ammo_HuntingBolt" />
+        </cargo>
+ 		<cargo>
+           <item name="Ammo_HuntingBolt" />
+       </cargo>
+ 		<cargo>
+           <item name="Ammo_HuntingBolt" />
+        </cargo>
+		<cargo>
+            <item name="Ammo_HuntingBolt" />
+        </cargo>
+		<cargo>
+            <item name="Ammo_HuntingBolt" />
+        </cargo>
+		<cargo>
+            <item name="Ammo_HuntingBolt" />
+        </cargo>
+		<cargo>
+            <item name="CowboyHat_black" />
+        </cargo>
+		<cargo>
+            <item name="PlateCarrierVest_Black" />
+        </cargo>
+		<cargo>
+            <item name="PlateCarrierPouches_Black" />
+        </cargo>
+		<cargo>
+            <item name="PlateCarrierHolster_Black" />
+        </cargo>
+		<cargo>
+            <item name="AmmoBox_357_20Rnd" />
+        </cargo>
+		<cargo>
+            <item name="AmmoBox_357_20Rnd" />
+        </cargo>
+		<cargo>
+            <item name="PaydayMask_Chains" />
+        </cargo>
 		<hoarder />
 	</type>
 	<type name="Barrel_Red">
+		<cargo>
+            <item name="M65Jacket_Black" />
+        </cargo>
+        <cargo>
+            <item name="CargoPants_Black" />
+        </cargo>
+		<cargo>
+            <item name="AliceBag_Black" />
+        </cargo>
+		<cargo>
+            <item name="Mich2001Helmet" />
+        </cargo>
+		<cargo>
+            <item name="NVGoggles" />
+        </cargo>
+		<cargo>
+            <item name="TacticalGloves_Black" />
+        </cargo>
+		<cargo>
+            <item name="MilitaryBelt" />
+        </cargo>
+		<cargo>
+            <item name="Deagle_Gold" />
+        </cargo>
+		<cargo>
+            <item name="Mag_Deagle_9rnd" />
+        </cargo>
+		<cargo >
+            <item name="Crossbow_Summer" />
+        </cargo>
+		<cargo>
+            <item name="Ammo_HuntingBolt" />
+        </cargo>
 		<hoarder />
 	</type>
 	<type name="Barrel_Yellow">

@@ -1,0 +1,13 @@
+{
+	"areaName": "RestrictedAreaWarheadStorage",
+	"PRABoxes": [
+        [    
+            [2, 5.2, 2],
+            [131.962, 0, 0],
+			[12454.9, 7.46584, 2062.58]
+        ]
+    ],
+	"safePositions3D": [
+		[8197.87, 475.184, 9125.91]
+	]
+}

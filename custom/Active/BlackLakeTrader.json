@@ -3181,7 +3181,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Flashlight",
+            "name": "UniversalLight",
             "pos": [
                 13283.623046875,
                 70.52849578857422,
@@ -3196,7 +3196,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Flashlight",
+            "name": "UniversalLight",
             "pos": [
                 13283.6142578125,
                 70.5272445678711,

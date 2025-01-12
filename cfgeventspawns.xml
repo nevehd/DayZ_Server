@@ -567,7 +567,19 @@
 	</event> 
 	<event name="ItemBarrelAdmin">
     <pos x="14237.72" z="15041.64" a="0" />
-</event>
+	</event>
+
+	<!--Billy Barrels Red -->
+	<event name="ItemBarrelBillyRed">
+  	  <pos x="3110.20" z="4065.77" a="0" /> 
+	</event>
+	
+
+	<!-- Billy Barrels Blue -->
+	<event name="ItemBarrelBillyBlue">
+  	  <pos x="3092.22" z="4070.63" a="0" />
+	</event>
+	
 	<event name="StaticPoliceCar">
 			<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 			<pos x="1846.316407" z="11492.649414" a="336.442993" />
