@@ -24,9 +24,13 @@
 			
             <!--Brad Base -->
 			<pos x="14217.31" z="14988.18" />
-			 
+			
+			<!-- Tisy -->
+			<pos x="3436.83" z="14796.19" />
 		
-                 
+            <!-- Billy Base -->
+			<pos x="3114.58" z="4062.37" />
+
 		</generator_posbubbles>
 	</fresh>
 
