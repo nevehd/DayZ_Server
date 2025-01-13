@@ -36,133 +36,10 @@
    ],
    "attachmentSlotItemSets": [
       {
-         "slotName": "shoulderL",
-         "discreteItemSets": [
-            {
-               "itemType": "Aug",
-               "spawnWeight": 1,
-               "attributes": {
-                  "healthMin": 0.8,
-                  "healthMax": 1.0,
-                  "quantityMin": 1.0,
-                  "quantityMax": 1.0
-               },
-               "quickBarSlot": 1,
-               "complexChildrenTypes": [
-                  {
-                     "itemType": "Mag_STANAG_60Rnd",
-                     "attributes": {
-                        "healthMin": 0.8,
-                        "healthMax": 0.9,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                     },
-                     "quickBarSlot": -1
-                  },
-                  {
-                     "itemType": "M4_Suppressor",
-                     "attributes": {
-                        "healthMin": 0.8,
-                        "healthMax": 0.9,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                     },
-                     "quickBarSlot": -1
-                  },
-                  {
-                     "itemType": "GhillieAtt_Mossy",
-                     "attributes": {
-                        "healthMin": 0.8,
-                        "healthMax": 0.9,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                     },
-                     "quickBarSlot": -1
-                  },
-                  {
-                     "itemType": "UniversalLight",
-                     "attributes": {
-                        "healthMin": 0.8,
-                        "healthMax": 0.9,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                     },
-                     "quickBarSlot": -1
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "slotName": "shoulderR",
-         "discreteItemSets": [
-            {
-               "itemType": "M14",
-               "spawnWeight": 2,
-               "attributes": {
-                  "healthMin": 0.8,
-                  "healthMax": 0.8,
-                  "quantityMin": 1.0,
-                  "quantityMax": 1.0
-               },
-               "quickBarSlot": 2,
-               "complexChildrenTypes": [
-                  {
-                     "itemType": "ACOGOptic_6x",
-                     "attributes": {
-                        "healthMin": 0.9,
-                        "healthMax": 0.9,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                     },
-                     "quickBarSlot": -1
-                  },
-                  {
-                     "itemType": "Mag_M14_20Rnd",
-                     "attributes": {
-                        "healthMin": 0.8,
-                        "healthMax": 0.9,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                     },
-                     "quickBarSlot": -1
-                  },
-                  {
-                     "itemType": "GhillieAtt_Mossy",
-                     "attributes": {
-                        "healthMin": 0.8,
-                        "healthMax": 0.9,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                     },
-                     "quickBarSlot": -1
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "slotName": "Vest",
-         "discreteItemSets": [
-            {
-               "itemType": "LeatherStorageVest_Black",
-               "spawnWeight": 1,
-               "attributes": {
-                  "healthMin": 1.0,
-                  "healthMax": 1.0,
-                  "quantityMin": 1.0,
-                  "quantityMax": 1.0
-               },
-               "quickBarSlot": -1,
-               "simpleChildrenUseDefaultAttributes": false
-            }
-         ]
-      },
-      {
          "slotName": "Back",
          "discreteItemSets": [
             {
-               "itemType": "LeatherSack_Black",
+               "itemType": "CanvasBag_Olive",
                "spawnWeight": 1,
                "attributes": {
                   "healthMin": 0.8,
@@ -173,98 +50,11 @@
                "quickBarSlot": -1,
                "simpleChildrenUseDefaultAttributes": false,
                "simpleChildrenTypes": [
-                  "Candycane_RedGreen",
-                  "Candycane_RedGreen",
-                  "Candycane_RedGreen",
-                  "Candycane_RedGreen",
-                  "Candycane_RedGreen",
-                  "ChernarusMap",
-                  "Canteen",
-                  "Canteen",
-                  "Canteen",
-                  "LeatherSewingKit",
-                  "SewingKit",
+                  "TacticalBaconCan_Opened",
+                  "WaterBottle",
                   "BandageDressing",
-                  "BandageDressing",
-                  "BandageDressing",
-                  "BandageDressing",
-                  "BandageDressing"
-               ]
-            }
-         ]
-      },
-      {
-         "slotName": "Headgear",
-         "discreteItemSets": [
-            {
-               "itemType": "WitchHood_Black",
-               "spawnWeight": 1,
-               "attributes": {
-                  "healthMin": 1.0,
-                  "healthMax": 1.0,
-                  "quantityMin": 1.0,
-                  "quantityMax": 1.0
-               },
-               "quickBarSlot": -1
-            }
-         ]
-      },
-      {
-         "slotName": "Gloves",
-         "discreteItemSets": [
-            {
-               "itemType": "LeatherGloves_Black",
-               "spawnWeight": 1,
-               "attributes": {
-                  "healthMin": 1.0,
-                  "healthMax": 1.0,
-                  "quantityMin": 1.0,
-                  "quantityMax": 1.0
-               },
-               "quickBarSlot": -1
-            }
-         ]
-      },
-      {
-         "slotName": "Mask",
-         "discreteItemSets": [
-            {
-               "itemType": "SantasBeard",
-               "spawnWeight": 1,
-               "attributes": {
-                  "healthMin": 1.0,
-                  "healthMax": 1.0,
-                  "quantityMin": 1.0,
-                  "quantityMax": 1.0
-               },
-               "quickBarSlot": -1
-            }
-         ]
-      },
-      {
-         "slotName": "Eyewear",
-         "discreteItemSets": [
-            {
-               "itemType": "NVGHeadstrap",
-               "spawnWeight": 1,
-               "attributes": {
-                  "healthMin": 1.0,
-                  "healthMax": 1.0,
-                  "quantityMin": 1.0,
-                  "quantityMax": 1.0
-               },
-               "quickBarSlot": -1,
-               "complexChildrenTypes": [
-                  {
-                     "itemType": "NVGoggles",
-                     "attributes": {
-                        "healthMin": 0.9,
-                        "healthMax": 0.9,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                     },
-                     "quickBarSlot": -1
-                  }
+                  "VitaminBottle",
+                  "HuntingKnife"
                ]
             }
          ]
@@ -273,7 +63,7 @@
          "slotName": "Body",
          "discreteItemSets": [
             {
-               "itemType": "FirefighterJacket_Black",
+               "itemType": "TShirt_Green",
                "spawnWeight": 1,
                "attributes": {
                   "healthMin": 1.0,
@@ -281,28 +71,7 @@
                   "quantityMin": 1.0,
                   "quantityMax": 1.0
                },
-               "quickBarSlot": -1,
-               "simpleChildrenUseDefaultAttributes": false,
-               "simpleChildrenTypes": [
-                  "Battery9V",
-                  "Battery9V",
-                  "Mag_STANAG_60Rnd"
-               ]
-            }
-         ]
-      },
-      {
-         "slotName": "Hips",
-         "discreteItemSets": [
-            {
-               "itemType": "MilitaryBelt",
-               "spawnWeight": 1,
-               "attributes": {
-                  "healthMin": 1.0,
-                  "healthMax": 1.0,
-                  "quantityMin": 1.0,
-                  "quantityMax": 1.0
-               }
+               "quickBarSlot": -1
             }
          ]
       },
@@ -310,7 +79,7 @@
          "slotName": "Legs",
          "discreteItemSets": [
             {
-               "itemType": "FirefightersPants_Black",
+               "itemType": "CanvasPantsMidi_Beige",
                "spawnWeight": 1,
                "attributes": {
                   "healthMin": 1.0,
@@ -318,13 +87,7 @@
                   "quantityMin": 1.0,
                   "quantityMax": 1.0
                },
-               "quickBarSlot": -1,
-               "simpleChildrenUseDefaultAttributes":false,
-               "simpleChildrenTypes": [
-                  "VitaminBottle",
-                  "TetracyclineAntibiotics",
-                  "WeaponCleaningKit"
-               ]
+               "quickBarSlot": -1
             }
          ]
       },
@@ -332,7 +95,7 @@
          "slotName": "Feet",
          "discreteItemSets": [
             {
-               "itemType": "MilitaryBoots_Black",
+               "itemType": "AthleticShoes_Green",
                "spawnWeight": 1,
                "attributes": {
                   "healthMin": 1.0,
@@ -340,19 +103,7 @@
                   "quantityMin": 1.0,
                   "quantityMax": 1.0
                },
-               "quickBarSlot": -1,
-               "complexChildrenTypes": [
-                  {
-                     "itemType": "CombatKnife",
-                     "attributes": {
-                        "healthMin": 0.9,
-                        "healthMax": 0.9,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                     },
-                     "quickBarSlot": -1
-                  }
-               ]
+               "quickBarSlot": -1
             }
          ]
       }
