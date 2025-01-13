@@ -106,7 +106,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "HumanSteakMeat",
+            "name": "ChernarusMap",
             "pos": [
                 5064.9521484375,
                 373.8728332519531,
@@ -121,7 +121,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "HumanSteakMeat",
+            "name": "TetracyclineAntibiotics",
             "pos": [
                 5065.2099609375,
                 373.8728332519531,
@@ -136,7 +136,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "HumanSteakMeat",
+            "name": "TetracyclineAntibiotics",
             "pos": [
                 5065.115234375,
                 373.8728332519531,
@@ -6706,7 +6706,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "WoolGlovesFingerless_White",
+            "name": "ChernarusMap",
             "pos": [
                 5062.453125,
                 375.4283752441406,
@@ -7096,7 +7096,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Ammo_40mm_Smoke_Red",
+            "name": "PunchedCard",
             "pos": [
                 5061.7333984375,
                 375.4527587890625,
