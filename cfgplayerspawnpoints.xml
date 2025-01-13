@@ -21,6 +21,9 @@
 		</generator_params>
 
 		<generator_posbubbles>
+			<group name="SPAWNSELECTOR" lifetime="60" counter="1">
+				<pos x="117.096" z="1495.05" />
+			</group>
 			
             <!--Brad Base -->
 			<pos x="14217.31" z="14988.18" />
