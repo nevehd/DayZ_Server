@@ -21,31 +21,34 @@
 		</generator_params>
 
 		<generator_posbubbles>
+		<!--
 			<group name="SPAWNSELECTOR" lifetime="60" counter="1">
 				<pos x="117.096" z="1495.05" />
-			</group>
+			</group> -->
 			
-            <!--Brad Base -->
-			<pos x="14217.31" z="14988.18" />
+            <!--Brad Base 
+			<pos x="14217.31" z="14988.18" /> -->
 			
-			<!-- Tisy COD Zone -->
-			<pos x="3436.83" z="14796.19" />
+			<!-- Tisy COD Zone 
+			<pos x="3436.83" z="14796.19" /> -->
 		
-            <!-- Billy Base -->
-			<pos x="3114.58" z="4062.37" /> 
+            <!-- Billy Base 
+			<pos x="3114.58" z="4062.37" /> -->
 
-			<!-- Carter Base -->
-			<pos x="7114.24" z="15239.22" />
+			<!-- Carter Base
+			<pos x="7114.24" z="15239.22" />  -->
 
-			<!-- Area 69 -->
-			<pos x="1863.98" z="2113.08" />
+			<!-- Area 69 
+			<pos x="1863.98" z="2113.08" /> -->
 
-			<!-- Neve Base -->
-			<pos x="5703.98" z="2018.79" />
+			<!-- Neve Base 
+			<pos x="5703.98" z="2018.79" /> -->
 
-			<!-- Damn Bunker -->
-			<pos x="1269.06" z="6302.55" />
+			<!-- Damn Bunker 
+			<pos x="1269.06" z="6302.55" /> -->
 
+			<!-- Tisy Bunker -->
+			<pos x="1555.10" z="14495.08" />
 
 		</generator_posbubbles>
 	</fresh>
