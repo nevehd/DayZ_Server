@@ -37,6 +37,13 @@
 			<!-- Area 69 -->
 			<pos x="1863.98" z="2113.08" />
 
+			<!-- Neve Base -->
+			<pos x="5703.98" z="2018.79" />
+
+			<!-- Damn Bunker -->
+			<pos x="1269.06" z="6302.55" />
+
+
 		</generator_posbubbles>
 	</fresh>
 
