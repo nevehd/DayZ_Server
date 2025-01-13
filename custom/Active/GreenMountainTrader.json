@@ -9526,7 +9526,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Rangefinder",
+            "name": "ClaymoreMine",
             "pos": [
                 3682.050048828125,
                 402.9037170410156,
@@ -9541,7 +9541,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Rangefinder",
+            "name": "ClaymoreMine",
             "pos": [
                 3682.082763671875,
                 402.9036560058594,
@@ -9556,7 +9556,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Rangefinder",
+            "name": "ClaymoreMine",
             "pos": [
                 3682.1328125,
                 402.9036560058594,
@@ -9571,7 +9571,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Rangefinder",
+            "name": "ClaymoreMine",
             "pos": [
                 3682.182861328125,
                 402.9036560058594,
@@ -10261,7 +10261,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "ImprovisedSuppressor",
+            "name": "M79",
             "pos": [
                 3682.5947265625,
                 404.0635070800781,
@@ -10276,7 +10276,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "ImprovisedSuppressor",
+            "name": "M79",
             "pos": [
                 3682.5458984375,
                 404.0634765625,
@@ -11251,7 +11251,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Ammo_40mm_Smoke_Red",
+            "name": "Ammo_40mm_Explosive",
             "pos": [
                 3675.44189453125,
                 403.1376037597656,
@@ -11266,7 +11266,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Ammo_40mm_Smoke_White",
+            "name": "Ammo_40mm_Explosive",
             "pos": [
                 3675.38916015625,
                 403.1376037597656,
@@ -11281,7 +11281,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Ammo_40mm_Smoke_Green",
+            "name": "Ammo_40mm_Explosive",
             "pos": [
                 3675.341064453125,
                 403.1376037597656,
@@ -11296,7 +11296,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Ammo_40mm_Smoke_Black",
+            "name": "Ammo_40mm_Explosive",
             "pos": [
                 3675.292236328125,
                 403.1376037597656,
@@ -11311,7 +11311,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Ammo_40mm_Smoke_Red",
+            "name": "Ammo_40mm_Explosive",
             "pos": [
                 3675.431396484375,
                 403.1376037597656,
@@ -11326,7 +11326,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Ammo_40mm_Smoke_White",
+            "name": "Ammo_40mm_Explosive",
             "pos": [
                 3675.37890625,
                 403.1376037597656,
@@ -11341,7 +11341,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Ammo_40mm_Smoke_Green",
+            "name": "Ammo_40mm_Explosive",
             "pos": [
                 3675.330322265625,
                 403.1376037597656,
@@ -11356,7 +11356,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Ammo_40mm_Smoke_Black",
+            "name": "Ammo_40mm_Explosive",
             "pos": [
                 3675.279052734375,
                 403.1376037597656,
