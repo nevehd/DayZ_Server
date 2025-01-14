@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playerspawnpoints>
-	<fresh>
-		<spawn_params>
-			<min_dist_infected>30.0</min_dist_infected>
-			<max_dist_infected>70.0</max_dist_infected>
-			<min_dist_player>25.0</min_dist_player>
-			<max_dist_player>70.0</max_dist_player>
-			<min_dist_static>0.5</min_dist_static>
-			<max_dist_static>2.0</max_dist_static>
-		</spawn_params>
-
-		<generator_params>
-			<grid_density>8</grid_density>
-			<grid_width>40.0</grid_width>
-			<grid_height>40.0</grid_height>
-			<min_dist_static>0.5</min_dist_static>
-			<max_dist_static>2.0</max_dist_static>
-			<min_steepness>-45</min_steepness>
-			<max_steepness>45</max_steepness>
-		</generator_params>
-
-		<generator_posbubbles>
-			<group name="SPAWNSELECTOR" lifetime="60" counter="1">
-				<pos x="117.096" z="1495.05" />
-			</group>
+<fresh>
+        <spawn_params>
+            <min_dist_infected>30</min_dist_infected>
+            <max_dist_infected>70</max_dist_infected>
+            <min_dist_player>2</min_dist_player>
+            <max_dist_player>3</max_dist_player>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>0.5</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>1</grid_density>
+            <grid_width>2</grid_width>
+            <grid_height>2</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>0.1</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>60</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+<group name="SPAWNSELECTOR" lifetime="60" counter="1">
+<pos x="117.096" z="1495.05" />
+</group>
 			
             <!--Brad Base 
 			<pos x="14217.31" z="14988.18" /> -->
@@ -34,7 +38,6 @@
 			<!-- Carter Base 
 			<pos x="7114.24" z="15239.22" />  -->
 
-			<pos x="2932.31" z="2043.82" />
 		</generator_posbubbles>
 	</fresh>
 
