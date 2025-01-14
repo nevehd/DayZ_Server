@@ -9196,7 +9196,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "USMCPants_Desert",
+            "name": "FirefightersPants_Beige",
             "pos": [
                 13299.080078125,
                 70.028076171875,
@@ -9211,7 +9211,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "USMCPants_Woodland",
+            "name": "FirefightersPants_Black",
             "pos": [
                 13300.2548828125,
                 70.03424072265625,
@@ -9226,7 +9226,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "USMCJacket_Desert",
+            "name": "FirefighterJacket_Beige",
             "pos": [
                 13299.6083984375,
                 70.04248046875,
@@ -9241,7 +9241,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "USMCJacket_Woodland",
+            "name": "FirefighterJacket_Black",
             "pos": [
                 13300.7861328125,
                 70.04104614257813,
