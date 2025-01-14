@@ -1,13 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
+
+<!--
+1) following message will be displayed to every player in countdown manner
+    and shuts down server in 4 hours from its start -->
+
     <message>
-        <deadline>360</deadline>
+        <deadline>240</deadline>
         <shutdown>1</shutdown>
-        <text>This server (#name) will restart in #tmin minutes.</text>
+        <text>#name will shutdown in #tmin minutes.</text>
     </message>
+
+    <message>
+        <deadline>180</deadline>
+        <shutdown>0</shutdown>
+        <text>#name will shutdown in #tmin minutes.</text>
+    </message>
+    
+    <message>
+        <deadline>120</deadline>
+        <shutdown>0</shutdown>
+        <text>#name will shutdown in #tmin minutes.</text>
+    </message>
+
+    <message>
+        <deadline>60</deadline>
+        <shutdown>0</shutdown>
+        <text>#name will shutdown in #tmin minutes.</text>
+    </message>
+
+    <message>
+        <deadline>30</deadline>
+        <shutdown>0</shutdown>
+        <text>#name will shutdown in #tmin minutes.</text>
+    </message>
+    
+    <message>
+        <deadline>15</deadline>
+        <shutdown>0</shutdown>
+        <text>#name will shutdown in #tmin minutes.</text>
+    </message>
+
+    <message>
+        <deadline>10</deadline>
+        <shutdown>0</shutdown>
+        <text>#name will shutdown in #tmin minutes.</text>
+    </message>
+
+    <message>
+        <deadline>5</deadline>
+        <shutdown>0</shutdown>
+        <text>#name will shutdown in #tmin minutes.</text>
+    </message>
+
+    <message>
+        <deadline>2</deadline>
+        <shutdown>0</shutdown>
+        <text>#name will shutdown in #tmin minutes. Please make sure you're not in any moving vehicles to avoid dying and respawn.</text>
+    </message>
+    
+
+<!-- following message will be displayed every 15 minutes to every player -->
+
+    <message>
+        <repeat>15</repeat>
+        <text>You're playing (#name). Join our Discord https://discord.gg/qUmZQWQZ )</text>
+    </message>
+
+<!--following message will be displayed every 50 minutes to every player
+    and 10 minutes after player connect -->
+
+    <message>
+        <delay>10</delay>
+        <repeat>50</repeat>
+        <onconnect>1</onconnect>
+        <text> Check out the bunkers dotted around the map. If you want to access our many traders and RP zone, join our discord. https://discord.gg/qUmZQWQZ </text>
+    </message>
+
+
+<!-- following message will be displayed once
+    and 2 minutes after player connect -->
+
     <message>
         <delay>2</delay>
         <onconnect>1</onconnect>
-        <text>Hello Uncle Dunk.</text>
+        <text>Welcome to #name. Join our Discord to access the Traders, Armouries and RP Island. https://discord.gg/qUmZQWQZ </text>
     </message>
+
+
 </messages>
