@@ -8,64 +8,9 @@
     <message>
         <deadline>240</deadline>
         <shutdown>1</shutdown>
-        <text>#name will shutdown in #tmin minutes.</text>
-    </message>
+        <text>Veteran's Paradise will shutdown in #tmin minutes.</text>
+    </message>    
 
-    <message>
-        <deadline>180</deadline>
-        <shutdown>0</shutdown>
-        <text>#name will shutdown in #tmin minutes.</text>
-    </message>
-    
-    <message>
-        <deadline>120</deadline>
-        <shutdown>0</shutdown>
-        <text>#name will shutdown in #tmin minutes.</text>
-    </message>
-
-    <message>
-        <deadline>60</deadline>
-        <shutdown>0</shutdown>
-        <text>#name will shutdown in #tmin minutes.</text>
-    </message>
-
-    <message>
-        <deadline>30</deadline>
-        <shutdown>0</shutdown>
-        <text>#name will shutdown in #tmin minutes.</text>
-    </message>
-    
-    <message>
-        <deadline>15</deadline>
-        <shutdown>0</shutdown>
-        <text>#name will shutdown in #tmin minutes.</text>
-    </message>
-
-    <message>
-        <deadline>10</deadline>
-        <shutdown>0</shutdown>
-        <text>#name will shutdown in #tmin minutes.</text>
-    </message>
-
-    <message>
-        <deadline>5</deadline>
-        <shutdown>0</shutdown>
-        <text>#name will shutdown in #tmin minutes.</text>
-    </message>
-
-    <message>
-        <deadline>2</deadline>
-        <shutdown>0</shutdown>
-        <text>#name will shutdown in #tmin minutes. Please make sure you're not in any moving vehicles to avoid dying and respawn.</text>
-    </message>
-    
-
-<!-- following message will be displayed every 15 minutes to every player -->
-
-    <message>
-        <repeat>15</repeat>
-        <text>You're playing (#name). Join our Discord https://discord.gg/qUmZQWQZ )</text>
-    </message>
 
 <!--following message will be displayed every 50 minutes to every player
     and 10 minutes after player connect -->
@@ -84,7 +29,7 @@
     <message>
         <delay>2</delay>
         <onconnect>1</onconnect>
-        <text>Welcome to #name. Join our Discord to access the Traders, Armouries and RP Island. https://discord.gg/qUmZQWQZ </text>
+        <text>Welcome to Veteran's Paradise. Join our Discord to access the Traders, Armouries and RP Island. https://discord.gg/qUmZQWQZ </text>
     </message>
 
 
