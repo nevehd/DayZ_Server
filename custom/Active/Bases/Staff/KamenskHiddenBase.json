@@ -1,0 +1,1882 @@
+{
+	"Objects" : [
+	       {
+			   "_comments1": "Created by Terra Viator (Dutch Overland) 2023",
+			   "_comments2": "Kamensk Cave Base",
+              "name": "StaticObj_Wall_MilCnc_4",
+              "pos": [
+              6865.991699,
+              358.117004,
+              14233.616211
+            ],
+              "ypr": [
+              -153.000061,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Wall_CncSmall_4",
+              "pos": [
+              6868.777832,
+              359.449036,
+              14232.524414
+            ],
+              "ypr": [
+              18,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Wall_CncSmall_4",
+              "pos": [
+              6868.777832,
+              361.268616,
+              14232.524414
+            ],
+              "ypr": [
+              18,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Misc_Well_Pump_Blue",
+              "pos": [
+              6893.257324,
+              344.899261,
+              14212.630859
+            ],
+              "ypr": [
+              -167.419724,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Misc_Bench7",
+              "pos": [
+              6892.446777,
+              344.915283,
+              14215.291992
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith1.p3d",
+              "pos": [
+              6862.113769000002,
+              345.354049,
+              14199.346681
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_wallh3.p3d",
+              "pos": [
+              6871.505859000003,
+              349.025756,
+              14184.618164000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_wallh3.p3d",
+              "pos": [
+              6881.709473000003,
+              343.942382,
+              14183.458008000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_wallh1.p3d",
+              "pos": [
+              6900.740233999998,
+              334.863617,
+              14203.673829
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_spike3.p3d",
+              "pos": [
+              6888.595703000003,
+              339.83567800000003,
+              14185.284179000002
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_wallh3.p3d",
+              "pos": [
+              6871.505859000003,
+              358.118438,
+              14184.618164000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_wallh3.p3d",
+              "pos": [
+              6881.709473000003,
+              353.035064,
+              14183.458008000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith1.p3d",
+              "pos": [
+              6858.055176000003,
+              349.421371,
+              14235.541993
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_spike3.p3d",
+              "pos": [
+              6888.595703000003,
+              348.92836,
+              14185.284179000002
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith1.p3d",
+              "pos": [
+              6873.276367000003,
+              341.793075,
+              14219.418946000002
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_wallh3.p3d",
+              "pos": [
+              6869.097656000003,
+              358.513061,
+              14242.295898000002
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_wallh3.p3d",
+              "pos": [
+              6881.201660000002,
+              356.100097,
+              14244.251953
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith1.p3d",
+              "pos": [
+              6894.037598000003,
+              340.517684,
+              14242.176759
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Block",
+              "pos": [
+              6873.644043,
+              343.915009,
+              14193.96875
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Block",
+              "pos": [
+              6873.681152,
+              343.95343,
+              14204.162109
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Block",
+              "pos": [
+              6883.788086,
+              343.917175,
+              14203.958984
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Block",
+              "pos": [
+              6880.431152,
+              341.10202,
+              14214.116211
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Stairs_30",
+              "pos": [
+              6889.802734,
+              345.018158,
+              14209.496094
+            ],
+              "ypr": [
+              179.999878,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Stairs_30",
+              "pos": [
+              6891.814453,
+              345.018158,
+              14209.522461
+            ],
+              "ypr": [
+              179.999878,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Block",
+              "pos": [
+              6893.791992,
+              343.90213,
+              14199.500977
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Block",
+              "pos": [
+              6890.541016,
+              341.10202,
+              14214.116211
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Block",
+              "pos": [
+              6886.51709,
+              341.050842,
+              14224.148438
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Wall_IndCnc_10",
+              "pos": [
+              6892.534668,
+              349.126434,
+              14222.013672
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Wall_IndCnc_10",
+              "pos": [
+              6879.341797,
+              349.226929,
+              14222.038086
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Wall_Cnc_5",
+              "pos": [
+              6885.197754,
+              349.915283,
+              14222.106445
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Block",
+              "pos": [
+              6867.322266,
+              352.343445,
+              14236.075195
+            ],
+              "ypr": [
+              18,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith1.p3d",
+              "pos": [
+              6873.024414000002,
+              355.658889,
+              14199.645509
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith1.p3d",
+              "pos": [
+              6868.471680000002,
+              357.70491,
+              14219.418946000002
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith1.p3d",
+              "pos": [
+              6880.883789000002,
+              351.910293,
+              14219.418946000002
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith1.p3d",
+              "pos": [
+              6891.193848000003,
+              351.910293,
+              14219.418946000002
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith1.p3d",
+              "pos": [
+              6880.431641000003,
+              355.658889,
+              14199.645509
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith3.p3d",
+              "pos": [
+              6881.881836,
+              359.824463,
+              14191.102539
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith1.p3d",
+              "pos": [
+              6889.640625000003,
+              355.658889,
+              14197.254884
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith1.p3d",
+              "pos": [
+              6871.174316000002,
+              361.606246,
+              14238.045899
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Block",
+              "pos": [
+              6883.776367,
+              343.903534,
+              14193.78125
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith1.p3d",
+              "pos": [
+              6883.286133000002,
+              361.606246,
+              14239.639649
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith4.p3d",
+              "pos": [
+              6889.2089849999975,
+              356.715408,
+              14233.991210999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith4.p3d",
+              "pos": [
+              6889.057617999997,
+              356.99449100000004,
+              14241.207031
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith4.p3d",
+              "pos": [
+              6886.701172999998,
+              356.77928099999997,
+              14188.148437
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_1s.p3d",
+              "pos": [
+              6886.027343999997,
+              358.487258,
+              14188.101563
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith4.p3d",
+              "pos": [
+              6870.757812999997,
+              347.56355299999996,
+              14207.667969
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith4.p3d",
+              "pos": [
+              6870.757812999997,
+              350.76286300000004,
+              14207.667969
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_2s.p3d",
+              "pos": [
+              6890.8647470000005,
+              364.12284900000003,
+              14227.535155999998
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_2s.p3d",
+              "pos": [
+              6878.198731,
+              367.98433,
+              14208.511718
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_2s.p3d",
+              "pos": [
+              6877.744141,
+              366.54435800000005,
+              14222.642577999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_3f.p3d",
+              "pos": [
+              6877.202149,
+              366.334717,
+              14213.863281
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_3f.p3d",
+              "pos": [
+              6898.463379,
+              352.213867,
+              14188.956055
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_2s.p3d",
+              "pos": [
+              6906.8642580000005,
+              354.82228200000003,
+              14203.772460999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_3f.p3d",
+              "pos": [
+              6910.898438,
+              329.64126600000003,
+              14215.137695000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_monolith2.p3d",
+              "pos": [
+              6870.300293000003,
+              356.196442,
+              14192.254883
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_spike2.p3d",
+              "pos": [
+              6892.5014649999985,
+              359.717529,
+              14232.658203
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_3f.p3d",
+              "pos": [
+              6923.528321,
+              327.695374,
+              14214.579102
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_3f.p3d",
+              "pos": [
+              6912.702637,
+              328.395569,
+              14204.528320000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_2s.p3d",
+              "pos": [
+              6902.024415,
+              354.32371600000005,
+              14198.011718
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_2s.p3d",
+              "pos": [
+              6871.969239,
+              360.123551,
+              14185.243164
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_3f.p3d",
+              "pos": [
+              6904.209473,
+              351.007233,
+              14186.625977
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_2s.p3d",
+              "pos": [
+              6901.242676,
+              353.234574,
+              14213.374022999998
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_2s.p3d",
+              "pos": [
+              6902.604493,
+              353.35719400000005,
+              14224.534178999998
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_2f.p3d",
+              "pos": [
+              6893.3442380000015,
+              353.07089199999996,
+              14240.657226000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_2s.p3d",
+              "pos": [
+              6890.166504,
+              365.23246800000004,
+              14211.415039
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_2s.p3d",
+              "pos": [
+              6879.736329,
+              368.94719000000003,
+              14193.605468
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_3f.p3d",
+              "pos": [
+              6885.427735,
+              367.016876,
+              14199.801758
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_2s.p3d",
+              "pos": [
+              6889.828126,
+              368.374955,
+              14201.803710999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_3f.p3d",
+              "pos": [
+              6894.437501,
+              363.094177,
+              14217.616211
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Wall_MilCnc_4",
+              "pos": [
+              6872.280273,
+              356.556549,
+              14230.983398
+            ],
+              "ypr": [
+              -164.260132,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Stairs_30",
+              "pos": [
+              6876.593262,
+              351.862,
+              14231.732422
+            ],
+              "ypr": [
+              -71.999977,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Stairs_30",
+              "pos": [
+              6877.181641,
+              351.862,
+              14233.537109
+            ],
+              "ypr": [
+              -71.999977,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Platform1_Stairs_30",
+              "pos": [
+              6877.90918,
+              351.862,
+              14235.450195
+            ],
+              "ypr": [
+              -71.999977,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_ammoboxes_stacked",
+              "pos": [
+              6871.65332,
+              354.225922,
+              14233.239258
+            ],
+              "ypr": [
+              107.999962,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_ammoboxes_stacked",
+              "pos": [
+              6872.178223,
+              353.803925,
+              14233.139648
+            ],
+              "ypr": [
+              107.999962,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_ammoboxes_stacked",
+              "pos": [
+              6871.353027,
+              354.600189,
+              14233.338867
+            ],
+              "ypr": [
+              107.999962,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_ammoboxes_stacked",
+              "pos": [
+              6872.727539,
+              353.803925,
+              14234.833008
+            ],
+              "ypr": [
+              107.999962,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Garage_Row_Small",
+              "pos": [
+              6876.279785,
+              349.024353,
+              14197.416992
+            ],
+              "ypr": [
+              89.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_ammoboxes_stacked",
+              "pos": [
+              6871.902344,
+              354.600189,
+              14235.032227
+            ],
+              "ypr": [
+              107.999962,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Slum_House3",
+              "pos": [
+              6882.296387,
+              345.812225,
+              14212.368164
+            ],
+              "ypr": [
+              89.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "BandageDressing",
+              "pos": [
+              6880.953613,
+              345.477997,
+              14210.963867
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "BandageDressing",
+              "pos": [
+              6880.929199,
+              345.477997,
+              14211.040039
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "PetrolLighter",
+              "pos": [
+              6883.25,
+              345.432343,
+              14212.623047
+            ],
+              "ypr": [
+              0,
+              0,
+              -90
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_ammoboxes_stacked",
+              "pos": [
+              6872.202637,
+              354.225922,
+              14234.932617
+            ],
+              "ypr": [
+              107.999962,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "M4_Suppressor",
+              "pos": [
+              6884.671875,
+              345.57547,
+              14210.070313
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_carpet_big",
+              "pos": [
+              6877.025879,
+              347.482758,
+              14201.389648
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_carpet_big",
+              "pos": [
+              6875.016602,
+              347.482758,
+              14201.389648
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_carpet_big",
+              "pos": [
+              6872.997559,
+              347.482758,
+              14201.389648
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_carpet_big",
+              "pos": [
+              6870.995605,
+              347.482758,
+              14201.389648
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_carpet_big",
+              "pos": [
+              6876.520996,
+              347.483856,
+              14203.821289
+            ],
+              "ypr": [
+              89.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_carpet_big",
+              "pos": [
+              6873.574219,
+              347.483856,
+              14203.821289
+            ],
+              "ypr": [
+              89.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_SofaCorner",
+              "pos": [
+              6875.904785,
+              347.850189,
+              14200.888672
+            ],
+              "ypr": [
+              89.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_school_map",
+              "pos": [
+              6876.311035,
+              349.39624,
+              14199.874023
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_table_drawer",
+              "pos": [
+              6877.623047,
+              347.439728,
+              14200.353516
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_tv_a",
+              "pos": [
+              6876.532227,
+              348.079865,
+              14204.399414
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_bright_spike3.p3d",
+              "pos": [
+              6880.214844000003,
+              368.258896,
+              14226.878906000002
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "CigarettePack_Chernamorka",
+              "pos": [
+              6877.409668,
+              348.122925,
+              14200.467773
+            ],
+              "ypr": [
+              25.745539,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "PetrolLighter",
+              "pos": [
+              6877.49707,
+              348.160858,
+              14200.357422
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "SodaCan_Kvass",
+              "pos": [
+              6877.363281,
+              348.172028,
+              14200.138672
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_flowers_02",
+              "pos": [
+              6877.736328,
+              348.047119,
+              14204.460938
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_flowers_01",
+              "pos": [
+              6875.783203,
+              347.476929,
+              14204.333008
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Candle",
+              "pos": [
+              6877.254883,
+              348.134033,
+              14204.138672
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "WoodenCrate",
+              "pos": [
+              6872.54541,
+              347.543427,
+              14200.037109
+            ],
+              "ypr": [
+              91.454948,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "WoodenCrate",
+              "pos": [
+              6873.373047,
+              347.543427,
+              14200.037109
+            ],
+              "ypr": [
+              91.454948,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_WhiteBoard_Laboratory",
+              "pos": [
+              6871.904785,
+              348.34906,
+              14202.990234
+            ],
+              "ypr": [
+              -71.999977,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "BookSkyrider",
+              "pos": [
+              6874.842773,
+              348.8461,
+              14204.485352
+            ],
+              "ypr": [
+              -84.363792,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "PartyTent_Brown",
+              "pos": [
+              6870.617676,
+              349.065918,
+              14190.623047
+            ],
+              "ypr": [
+              89.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_kitchen_unit_a_DZ",
+              "pos": [
+              6873.266113,
+              347.366302,
+              14190.324219
+            ],
+              "ypr": [
+              -179.108826,
+              0,
+              0
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_Kitchen_desk_B",
+              "pos": [
+              6874.383301,
+              348.326782,
+              14190.358398
+            ],
+              "ypr": [
+              -89.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_Kitchenstove_Elec",
+              "pos": [
+              6875.151367,
+              347.436005,
+              14190.299805
+            ],
+              "ypr": [
+              179.999969,
+              0,
+              0
+              ],
+              "scale": 1.2,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Refridgerator",
+              "pos": [
+              6872.294922,
+              347.470154,
+              14190.242188
+            ],
+              "ypr": [
+              179.999878,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "BarrelHoles_Blue",
+              "pos": [
+              6875.156738,
+              347.614777,
+              14190.330078
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Pot",
+              "pos": [
+              6875.302246,
+              348.455902,
+              14190.486328
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "CanOpener",
+              "pos": [
+              6873.549805,
+              348.2612,
+              14190.400391
+            ],
+              "ypr": [
+              75.518761,
+              0,
+              90
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_kitchen_table_a",
+              "pos": [
+              6873.54248,
+              347.430542,
+              14192.651367
+            ],
+              "ypr": [
+              89.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_kitchen_chair_a",
+              "pos": [
+              6873.610352,
+              347.475586,
+              14193.479492
+            ],
+              "ypr": [
+              -44.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_kitchen_chair_a",
+              "pos": [
+              6873.586426,
+              347.424744,
+              14192.341797
+            ],
+              "ypr": [
+              -171.000122,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_kitchen_chair_a",
+              "pos": [
+              6872.546875,
+              347.460114,
+              14192.521484
+            ],
+              "ypr": [
+              -89.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_light_kitchen_03",
+              "pos": [
+              6873.312988,
+              349.493042,
+              14192.811523
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Orange",
+              "pos": [
+              6873.015137,
+              348.248138,
+              14190.362305
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "KitchenKnife",
+              "pos": [
+              6873.044434,
+              348.49173,
+              14190.37207
+            ],
+              "ypr": [
+              0,
+              0,
+              179.999985
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "WaterPouch_Natural",
+              "pos": [
+              6893.045898,
+              345.094208,
+              14212.573242
+            ],
+              "ypr": [
+              -180,
+              -89.93438,
+              -180
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "ChernarusMap",
+              "pos": [
+              6881.949707,
+              345.67868,
+              14209.400391
+            ],
+              "ypr": [
+              -180,
+              -89.93438,
+              -180
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "ChernarusMap",
+              "pos": [
+              6881.847168,
+              345.67868,
+              14209.400391
+            ],
+              "ypr": [
+              179.999985,
+              -89.905121,
+              179.999985
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "PaddedGloves_Threat",
+              "pos": [
+              6883.005859,
+              345.415497,
+              14209.616211
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+        }
+	]
+}
+		

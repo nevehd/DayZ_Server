@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <map>
+	<group name="Land_Tenement_Big" pos="6669.374023 26.836182 2095.130127" rpy="0.000000 0.000000 18.000004" a="72"/>
+	<group name="Land_Airfield_Hangar_Green" pos="6713.279785 12.910000 2095.959961" rpy="0.000000 0.000000 152.999969" a="-63"/>
+	<group name="Land_Airfield_Hangar_Green" pos="6631.939941 12.910000 2121.290039" rpy="0.000000 0.000000 -117.000000" a="-153"/>
+	<group name="Land_Airfield_Hangar_Green" pos="6742.109863 12.910000 2175.179932" rpy="0.000000 0.000000 63.000000" a="27"/>
+	<group name="Land_Village_HealthCare_Enoch" pos="6742.368164 10.307605 2130.579834" rpy="-0.000000 0.000000 -161.999832" a="-108"/>
+	<group name="Land_FuelStation_Feed" pos="6728.589844 7.947340 2151.540039" rpy="0.000000 0.000000 63.000000" a="27"/>
+	<group name="Land_Misc_Well_Pump_Yellow" pos="6748.910156 7.700000 2137.159912" rpy="0.000000 0.000000 0.000000" a="90"/>
 	<group name="Land_Underground_Entrance" pos="1306.607422 456.634186 14496.502930" rpy="-0.000000 -0.000000 -64.003891" a="154.004"/>
 	<group name="StaticObj_Mil_AircraftShelter_Door_L" pos="1319.637085 461.148682 14499.431641" rpy="0.000000 0.000000 116.840034" a="-26.84"/>
 	<group name="StaticObj_Mil_AircraftShelter_Door_R" pos="1312.020752 461.098969 14483.826172" rpy="0.000000 0.000000 115.520065" a="-25.5201"/>
