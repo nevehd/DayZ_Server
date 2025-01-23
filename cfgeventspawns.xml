@@ -71,8 +71,6 @@
 	<event name="VehicleBuilderTruck">
 		<pos x="3064.76" z="4075.73" a="45" />
 		<pos x="7098.8" z="15337.3" a="455.9" />
-		<pos x="14332.50" z="15065.70" a="0" />
-
 		
     </event>
 
