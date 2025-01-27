@@ -543,8 +543,9 @@
 		<pos x="6900.140136" z="9867.984376" a="287.274323" />
 	</event>
 	<event name="VehicleOffroad02_Admin">
-			<!-- Admin Rock Base -->
-			<pos x="14283.41" z="15063.76" a="45" />
+			<!-- Admin Rock Base 
+			<pos x="14283.41" z="15063.76" a="45" /-->
+			<!--pos x="6589.8" z="2293.1" a="5.9" /-->
 	</event> 
 	<event name="StaticPoliceCar">
 			<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
